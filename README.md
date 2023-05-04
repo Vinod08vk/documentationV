@@ -21,7 +21,7 @@
 
 ## Introduction
 
-SODA Documentation provides documentation for SODA Foundation and all the SODA Core projects.
+SODA Documentation provides documentation for SODA Foundation and all the SODA Core projects. It includes all mojor projects such as delfin, strato, hotpot, installer etc.w
 
 This repo consists of all the code to generate the documentation website and repsective contents. ([https://docs.sodafoundation.io](https://docs.sodafoundation.io/))
 
